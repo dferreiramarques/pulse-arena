@@ -1,0 +1,13 @@
+{
+  "name": "pulse-lan-server",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Servidor LAN para o PULSE // LAN — salas, password e modo campeonato.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
